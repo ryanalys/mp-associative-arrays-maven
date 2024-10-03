@@ -3,5 +3,7 @@ Associative Arrays
 
 Starter code for a CSC-207 project on associative arrays.
 
-_Students must replace the contents of this file with appropriate
-contents, including class, author, date, and URL._
+Author: Alyssa Ryan
+Date: 10/3/2024
+CSC 207
+https://github.com/ryanalys/mp-associative-arrays-maven.git
